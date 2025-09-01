@@ -7,4 +7,4 @@ Direct link to the notebook: https://www.kaggle.com/code/annablonder/coffee-db-a
 
 
 # My-experience-with-DataCamp
-I have learned many different subjects using the platform, from Python programming to data analysis. Personally, I find that its learning style works for me. I prefer studying in groups.
+I have learned many different subjects using the platform, from Python programming to data analysis. Personally, I find that its learning style works less for me. I prefer studying in groups.
